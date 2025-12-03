@@ -15,7 +15,7 @@
 2. Драйвер [wintun.dll](https://www.dllme.com/dll/files/wintun)
 
 
-Всё необходимое вы можете скачать сразу архивом по ссылке 
+Всё необходимое вы можете скачать сразу архивом по [ссылке](https://github.com/ig-rudenko/ssh-tunnel/releases).
 
 Также вы можете сами скачать tun2socks новой версии [здесь](https://github.com/xjasonlyu/tun2socks/releases)
 и wintun [здесь](https://www.dllme.com/dll/files/wintun).
@@ -24,6 +24,8 @@
 
 
 ## Запуск
+
+Загрузите последний релиз по [ссылке](https://github.com/ig-rudenko/ssh-tunnel/releases).
 
 SSH подключение с сервером устанавливается с помощью ключей, а не пароля, так что убедитесь, что у вас они имеются.
 
