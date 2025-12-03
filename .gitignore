@@ -1,0 +1,5 @@
+*.drawio.bkp
+*.exe
+build
+
+.idea
