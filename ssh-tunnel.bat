@@ -1,2 +1,2 @@
 @echo off
-powershell.exe -ExecutionPolicy Bypass -File "%~dp0vpn.ps1"
+powershell.exe -ExecutionPolicy Bypass -File "%~dp0ssh-tunnel.ps1"
